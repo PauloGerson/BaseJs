@@ -1,3 +1,5 @@
+// Nesse arquivo, resolvi juntar tudo que estudei até aqui para simular um CRUD apenas com Vanilha JS.
+
 let person  =[ 
     {
         id:1,
@@ -28,7 +30,7 @@ function create(name, age, altura){
 
 function deletePerson(id){
     const idPerson = person.findIndex(person => person.id === id);
-    person.splice(idPerson, 1)// o metodo splice recebe  o argumetno  com o indice do elento e quandot serão removidor començado apartir dali. 
+    person.splice(idPerson, 1)// o metodo splice recebe  o argumetno  com o indice do elemento e quandot serão removidor començado apartir dali. 
 }
 
 function updatePerson(id, name, age, altura){
