@@ -14,6 +14,7 @@
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array)
+- [GIT](https://git-scm.com/doc)
 
 
 
