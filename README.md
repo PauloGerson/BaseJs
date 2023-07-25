@@ -5,9 +5,9 @@
 
 - Revisar Array e objetos ✅
 - Revisar todos os metodos mais usados em arrays
-- Revisar o conceito de callbacks
+- Revisar o conceito de callbacks✅
 - Revisar destructuring 
-- Revisar Promises
+- Revisar Promises✅
 
 
 ### 🛠 Tecnologias
