@@ -1,0 +1,1 @@
+Pelo meu entendimento, o argumento "resposta" é uma função de callback que você passa no then. Vamo entender primeiro o then O seu resolve ( ) é bac. Essa função de callback é chamada quando a promise é resolvida. Se a promise for resolvida ele executa o resolve( ) que tem como parâmetro uma mensagem. 
